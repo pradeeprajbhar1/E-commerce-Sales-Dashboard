@@ -8,7 +8,7 @@ The dashboard provides a clear and interactive view of business performance usin
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Dashboard](E-commerce%20Sales%20Dashboard%20Snapshot.jpg)
+![E-Commerce Sales Dashboard](https://github.com/pradeeprajbhar1/E-commerce-Sales-Dashboard/blob/main/E-commerce%20Sales%20Dashboard%20Snapshot.jpg)
 
 ---
 
